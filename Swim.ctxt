@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n\ d\ m\ y\ h\ min\ s\ dist\ location2
+comment0.target=Swim(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ float,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getLocation()
+comment2.params=
+comment2.target=java.lang.String\ getEntry()
+numComments=3
